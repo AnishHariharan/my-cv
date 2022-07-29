@@ -1,0 +1,169 @@
+#heading{
+  color: #B270A2;
+  font-family:Sacramento,serif;
+  font-size: 60px;
+  font-weight: normal;
+  position:absolute;
+  top: 100px;
+  left: 500px;
+}
+#heading:hover{
+  color: #F73D93;
+}
+.firstcontainer{
+  background-color: #FCE2DB;
+  height: 610px;
+  width: 100%;
+  position: absolute;
+  top:0px;
+  bottom: 0px;
+}
+.middlecontainer{
+  background-color: white;
+  height: 1000px;
+  width: 100%;
+  padding-bottom: 100px;
+}
+.bottomcontainer{
+}
+#dev{
+  font-family:cursive;
+  color:#B270A2;
+  position: absolute;
+  top:200px;
+  left:600px;
+}
+body{
+  text-align: center;
+  margin: 0;
+}
+#image{
+  position: absolute;
+  height: 300px;
+  width: 300px;
+  left:500px;
+  bottom: 10px;
+}
+span{
+  text-decoration: underline;
+}
+#dp{
+  position: absolute;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  top: 700px;
+}
+.greet{
+  color: #B270A2;
+  position: absolute;
+  top:780px;
+  left:660px;
+  font-family:Sacramento;
+  font-size: 30px;
+}
+.intro{
+  color: #B270A2;
+  font-size: 20px;
+  position: absolute;
+  top: 850px;
+  left: 500px;
+  right: 400px;
+  bottom: 100px;
+}
+.intro:hover{
+  color: #F73D93;
+}
+.top{
+    border-style: none;
+    border-top-style: dotted;
+    position: absolute;
+    top: 1000px;
+    left: 620px;
+    border-color: #B270A2;
+    border-width: 5px;
+    width: 10%;
+}
+.skill{
+  color: #B270A2;
+  position: absolute;
+  top: 1100px;
+  left: 10px;
+  text-decoration:underline;
+  font-family: Sacramento;
+  font-size: 60px;
+}
+.skill:hover{
+  color: #F73D93;
+}
+.logop{
+  position: absolute;
+  top:1350px;
+  left:200px;
+  height: 100px;
+  width: 100px;
+}
+.logos{
+  position: absolute;
+  top:1350px;
+  left: 400px;
+  height: 100px;
+  width: 100px;
+}
+.logoh{
+  position: absolute;
+  top:1350px;
+  left: 600px;
+  height: 100px;
+  width: 100px;
+}
+.skip{
+  color: #B270A2;
+  position: absolute;
+  font-size: 20px;
+  top: 1450px;
+  left:220px;
+}
+.skis{
+  color: #B270A2;
+  position: absolute;
+  font-size: 20px;
+  top: 1450px;
+  left:450px;
+}
+.skih{
+  color: #B270A2;
+  position:absolute;
+  font-size: 20px;
+  left: 620px;
+  top: 1450px;
+  left:
+}
+.middle{
+    border-style: none;
+    border-top-style: dotted;
+    position: absolute;
+    top: 1500px;
+    left: 620px;
+    padding-bottom: 100px;
+    border-color: #B270A2;
+    border-width: 5px;
+    width: 10%;
+}
+.final{
+  background-color: #FF8FB1;
+  height: 200px;
+  width: 100%;
+  position: absolute;
+  top:1600px;
+}
+.contact{
+  color: white;
+  font-size: 20px;
+  font-family: cursive;
+}
+.tag{
+  color: white;
+  font-size: 20px;
+  font-family: cursive;
+}
